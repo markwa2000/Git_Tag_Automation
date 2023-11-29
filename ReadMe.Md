@@ -8,6 +8,7 @@ ensures that version management is consistent, accurate, and efficient. However,
 creating and managing Git tags can be a time-consuming and error-prone task.
 
 Goal 
+
 To Track Every Successful Deployment in Production server in form of Git Tags
 Overview 
 1. Commit Message Patterns: Developers follow specific commit message patterns to 
@@ -22,6 +23,7 @@ change indicated in the commit message.
 updated version.
 
 Step-by-Step Guide 
+
 1. Commit Message Patterns 
 Developers follow specific commit message patterns to indicate the type of change:
  - [Major]: Indicates a major update (e.g., [Orderservice] Breaking changes: New version).
